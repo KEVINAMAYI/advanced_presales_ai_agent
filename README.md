@@ -9,9 +9,9 @@ In this scenario-driven course, learn how to build an AI-powered pre-sales agent
 
 ## Instructor
 
-Tobias Zwingmann
+Kevin Amayi Musungu
 
-AI Expert, Author, Keynote Speaker
+AI Expert, Author
 
 
 
